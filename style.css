@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(189, 236, 245);
+}
+
+.yoho{
+    color: #000000;
+    text-align: center;
+}
+
+.test{
+    background-color: rgba(245, 245, 245, 0.5);
+    position: fixed;
+    width : 30%;
+    height : 30%;
+    padding: 10px 5%;
+    margin: 20% 30%;
+    border-radius: 50px;
+}
+
+.test a{
+    color: #000000;
+    position: absolute;
+    margin-top: 5%;
+}
+
+.test p{
+    color: #000000;
+}
+
+.test h2{
+    color: #000000;
+}
+
+img{
+    position: absolute;
+    left: 40%;
+    top: 13%;
+    border-radius: 50%;
+}
